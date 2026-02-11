@@ -1,4 +1,9 @@
 # DS-Challenge3
+
+- Juan Diego Llorente
+- Sara Valentina Cortes
+- Samuel Acosta Aristizabal
+  
 # Auditoría Analítica y Optimización de Redes: TechLogistics S.A.
 
 Este proyecto documenta una auditoría integral de datos agrícolas y energéticos para la optimización de infraestructura y toma de decisiones en el Oriente Antioqueño. El análisis combina procesamiento de señales, teoría de grafos y modelos econométricos para diagnosticar fallas sistémicas y proponer mejoras de inversión.
